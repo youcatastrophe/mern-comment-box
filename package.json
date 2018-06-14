@@ -2,5 +2,7 @@
   "name": "mern-comment-box",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/youcatastrophe/mern-comment-box.git",
+  "author": "Ryan Newell <ryanalbertnewell@gmail.com>"
 }
